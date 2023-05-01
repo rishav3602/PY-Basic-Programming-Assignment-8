@@ -49,7 +49,7 @@ words = list(word_freq.keys())
 words.sort()
 
 for word in words:
-    print("%s:%d" % (word, word_freq[word]))
+    print( % (word, word_freq[word]))
     ##----------------------------------------------------------------------------------------------------------------##
 
 
