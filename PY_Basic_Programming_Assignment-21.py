@@ -57,11 +57,11 @@ alphabet_soup(&quot;javascript&quot;) ➞ &quot;aacijprstv&quot;
 def alphabet_soup(txt):
     return ''.join(sorted(txt))
 
-print(alphabet_soup("hello"))  # Output: ehllo
-print(alphabet_soup("edabit"))  # Output: abdeit
-print(alphabet_soup("hacker"))  # Output: acehkr
-print(alphabet_soup("geek"))  # Output: eegk
-print(alphabet_soup("javascript"))  # Output: aacijprstv
+print(alphabet_soup("hello"))  
+print(alphabet_soup("edabit"))  
+print(alphabet_soup("hacker"))  
+print(alphabet_soup("geek"))  
+print(alphabet_soup("javascript"))  
 
 
 """
